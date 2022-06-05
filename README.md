@@ -7,7 +7,6 @@
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Contact](#contact)
 <!-- * [License](#license) -->
 
 
@@ -64,13 +63,3 @@ http://localhost:3001/api/products
 http://localhost:3001/api/tags
 ```
 
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
-Source:raw.githubusercontent.com
