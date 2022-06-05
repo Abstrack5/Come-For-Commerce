@@ -29,13 +29,13 @@
 
 ## Setup
 If using GitBash or Terminal
-$ cd in directory there you want to store your project
-$ git clone https://github.com/Abstrack5/Come-For-Commerce
-$ code .
+`$ cd in directory there you want to store your project`
+`$ git clone https://github.com/Abstrack5/Come-For-Commerce`
+`$ code .`
 
 If using Visual Studio Code or similar
-$ git clone https://github.com/Abstrack5/Come-For-Commerce
-$ save file to preferred location
+`$ git clone https://github.com/Abstrack5/Come-For-Commerce`
+`$ save file to preferred location`
 
 
 ## Usage
