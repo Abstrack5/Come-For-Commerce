@@ -1,4 +1,4 @@
-# Project Name
+# Come-For-Commerce
 > This is a CLI for an E-commerce site, with routes accessing the database of categories, products and the product tags.
 > View demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
