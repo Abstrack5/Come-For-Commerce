@@ -1,10 +1,9 @@
 # Come-For-Commerce
 > This is a CLI for an E-commerce site, with routes accessing the database of categories, products and the product tags.
-> View demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> View demo [_here_](https://drive.google.com/file/d/199WRacEcusQAFUB8b1f3FhohpcSoXKpI/view). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 <!-- * [License](#license) -->
@@ -15,11 +14,8 @@
 - Node.js
 - NPM 
 
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
+## Preview
+<iframe src="https://drive.google.com/file/d/199WRacEcusQAFUB8b1f3FhohpcSoXKpI/preview" width="640" height="480"></iframe>
 
 ## Setup
 
@@ -70,7 +66,7 @@ http://localhost:3001/api/products
 http://localhost:3001/api/tags
 ```
 
-## License 
+## License ![GitHub](https://img.shields.io/github/license/abstrack5/come-for-commerce)
 Copyright (c) 2022 AAhmadi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
