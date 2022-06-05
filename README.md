@@ -15,7 +15,7 @@
 - NPM 
 
 ## Preview
-> View demo [_here_](https://drive.google.com/file/d/199WRacEcusQAFUB8b1f3FhohpcSoXKpI/view)
+View demo [_here_](https://drive.google.com/file/d/199WRacEcusQAFUB8b1f3FhohpcSoXKpI/view)
 
 ## Setup
 
