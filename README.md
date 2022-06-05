@@ -45,25 +45,25 @@ Make sure to add env file to gitignore
 
 ## Usage
 1. Open the terminal in your code editor of choice main directory
-2. Run the command <br />
+2. Run the command: <br />
 ```
 npm install
 ```
-3. now to access database
+3. now to access database:
 ```
 mysql -u root -p
 Enter your password:
 source db/schema.sql
 ```
-4. Type exit or quit, and too seed your database type
+4. Type exit or quit, and to seed your database type:
 ```
 npm run seed
 ```
-5. After seedingy our database now enter the following to start the application
+5. After seeding your database now enter the following to start the application:
 ```
 npm start
 ```
-6. Navigavte to the appropriate routes to view datbase of application
+6. Navigavte to the appropriate routes to view datbase of application:
 ```
 http://localhost:3001/api/categories
 http://localhost:3001/api/products
