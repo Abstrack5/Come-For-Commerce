@@ -34,6 +34,32 @@ router.get('/:id', (req, res) => {
   // find a single product by its `id`
   // be sure to include its associated Category and Tag data
   console.log("=========================");
+  Product.findOne({
+    where: {
+      id: req.params.id
+    }, 
+    include: [
+      {
+        model: Category
+      },
+      {
+        model: Tag,
+        through: ProductTag,
+        as: 'product_tag_id',
+        
+      }
+    ]
+  })
+  .then(productData => {
+    if(!productData) {
+      res.status(404).json({ message: 'Product not found with that id'})
+      return;
+    } res.json(productData);
+  })
+  .catch(err => {
+    console.log(err);
+    res.status(500).json(err);
+  })
   
 });
 
@@ -116,6 +142,21 @@ router.put('/:id', (req, res) => {
 router.delete('/:id', (req, res) => {
   // delete one product by its `id` value
   console.log("=========================");
+  Product.destroy({
+    where: {
+      id: req.params.id
+    }
+  })
+  .then(productData => {
+    if(!productData) {
+      res.status(404).json({ message: 'Product not found' });
+      return;
+    } res.json(productData)
+  })
+  .catch(err => {
+    console.log(err);
+    res.status(500).json(err);
+  })
 });
 
 module.exports = router;
