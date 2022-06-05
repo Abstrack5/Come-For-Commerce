@@ -1,14 +1,6 @@
 # Come-For-Commerce
 > This is a CLI for an E-commerce site, with routes accessing the database of categories, products and the product tags.
 
-
-## Table of Contents
-* [Technologies Used](#technologies-used)
-* [Setup](#setup)
-* [Usage](#usage)
-<!-- * [License](#license) -->
-
-
 ## Technologies Used
 - Javascript
 - Node.js
