@@ -35,7 +35,12 @@ If using Visual Studio Code or similar
 $ git clone https://github.com/Abstrack5/Come-For-Commerce
 $ save file to preferred location
 ```
-
+Then create .env file and enter appropriate information for the following
+```
+DB_NAME = 'database name here'
+DB_USER = 'root'
+DB_PW = 'password'
+```
 ## Usage
 1. Open the terminal in your code editor of choice main directory
 2. Run the command <br />
