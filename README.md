@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/100798134/172056067-50cb3057-9813-4dd8
 
 If using GitBash or Terminal
 ```
-$ cd in directory there you want to store your project
+$ cd into preferred file to store app
 $ git clone https://github.com/Abstrack5/Come-For-Commerce
 $ code .
 ```
