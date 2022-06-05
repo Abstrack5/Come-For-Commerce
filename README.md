@@ -41,6 +41,8 @@ DB_NAME = 'database name here'
 DB_USER = 'root'
 DB_PW = 'password'
 ```
+Make sure to add env file to gitignore
+
 ## Usage
 1. Open the terminal in your code editor of choice main directory
 2. Run the command <br />
