@@ -1,6 +1,6 @@
 # Come-For-Commerce
 > This is a CLI for an E-commerce site, with routes accessing the database of categories, products and the product tags.
-> View demo [_here_](https://drive.google.com/file/d/199WRacEcusQAFUB8b1f3FhohpcSoXKpI/view). <!-- If you have the project hosted somewhere, include the link here. -->
+
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
@@ -15,7 +15,7 @@
 - NPM 
 
 ## Preview
-<iframe src="https://drive.google.com/file/d/199WRacEcusQAFUB8b1f3FhohpcSoXKpI/preview" width="640" height="480"></iframe>
+> View demo [_here_](https://drive.google.com/file/d/199WRacEcusQAFUB8b1f3FhohpcSoXKpI/view)
 
 ## Setup
 
