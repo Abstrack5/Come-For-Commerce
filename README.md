@@ -7,7 +7,7 @@
 - NPM 
 
 ## Preview
-View demo [_here_](https://drive.google.com/file/d/199WRacEcusQAFUB8b1f3FhohpcSoXKpI/view)
+View demo [_here_](https://drive.google.com/file/d/199WRacEcusQAFUB8b1f3FhohpcSoXKpI/view){:target="_blank" rel="noopener"}
 
 
 https://user-images.githubusercontent.com/100798134/172056067-50cb3057-9813-4dd8-809d-e52799612c4f.mp4
